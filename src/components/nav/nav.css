@@ -1,0 +1,36 @@
+nav {
+    width: 100%;
+    height: auto;
+    font-family: 'Muli', sans-serif;
+    font-size: 26px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    z-index: 99;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: white;
+    margin-right: 220px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    display: flex;
+    margin-bottom: 0px;
+    padding-top: 15px;
+}
+
+#rightWrong {
+    margin-right: 220px;
+}
