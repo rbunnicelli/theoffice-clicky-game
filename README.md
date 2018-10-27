@@ -1,4 +1,4 @@
-# clicky-game
+# The Office Clicky Game
 
 - The Office Clicky-Game is a memory game created with React
 - See if you can click on every character without duplicating!
